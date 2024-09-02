@@ -65,8 +65,8 @@ Here’s a breakdown of the key projects and exercises I worked on:
 To explore the projects and code in this repository, simply clone it to your local machine:
 
 ```bash
-git clone https://github.com/yaasinslami/C_piscine.git
-cd C_piscine
+git clone https://github.com/yaasinslami/42-Piscine.git
+cd 42-Piscine
 ```
 
 <br>
